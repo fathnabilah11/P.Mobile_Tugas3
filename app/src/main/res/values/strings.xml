@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Tugas 3</string>
+    <string name="button">Button</string>
+    <string name="button2">Button</string>
+    <string name="traveloka">traveloka</string>
+    <string name="diskon">diskon</string>
+    <string name="tampilkan_lebih_banyak_diskon_lagi">Tampilkan Lebih banyak diskon lagi</string>
+    <string name="kereta">Kereta</string>
+    <string name="pesawat">Pesawat</string>
+    <string name="mobil">Mobil</string>
+    <string name="bus">Bus</string>
+    <string name="bus1">bus</string>
+    <string name="mobil1">mobil</string>
+    <string name="kereta1">kereta</string>
+    <string name="pesawat1">pesawat</string>
+    <string name="tampilkan_lebih_banyak">Tampilkan lebih banyak</string>
+    <string name="halo_selamat_datang">Halo Selamat datang,</string>
+    <string name="nama">Fatihaeny Nabilah Kurnia Illahi</string>
+    <string name="akun">akun</string>
+    <string name="home">home</string>
+    <string name="pesanan">pesanan</string>
+    <string name="kupon">kupon</string>
+    <string name="kupon1">kupon</string>
+</resources>
